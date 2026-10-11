@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shifto XXX//Pop-up Vol.3//JA
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:shifto-xxx-vol3-20261115@shifto-xxx
+DTSTAMP:20261011T000000Z
+DTSTART:20261115T013000Z
+DTEND:20261115T064500Z
+SUMMARY:【下北沢】Shifto XXX Pop-Up Cafe
+LOCATION:東京都世田谷区代沢4-26-9
+DESCRIPTION:ラストオーダー 15:30\nhttps://shifto-xxx-popup-3.vercel.app/vol3/
+URL:https://shifto-xxx-popup-3.vercel.app/vol3/
+END:VEVENT
+END:VCALENDAR
